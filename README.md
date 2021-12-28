@@ -4,7 +4,6 @@
 - 🌱 I am learning about deep php.
 - 💬 Ask me about ...
 - 📫 How to reach me: send email to pcacerloris@gmail.com
-- ⚡ Fun fact: I am the youngest but the best in development in my class x))
 
 ### My GitHub Stats
 
