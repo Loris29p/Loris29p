@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I'm Loris x) </h1>
+<h1>Hi there 👋 I'm Dr. Moon x) </h1>
 
 - 🔭 I am currently working on projects related to my school.
 - 🌱 I am learning about deep php.
