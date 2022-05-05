@@ -3,7 +3,6 @@
 - 🔭 I am currently working on projects related to my school.
 - 🌱 I am learning about deep php.
 - 💬 Ask me about ...
-- 📫 How to reach me: send email to pcacerloris@gmail.com
 
 ### My GitHub Stats
 
